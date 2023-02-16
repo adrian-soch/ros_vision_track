@@ -1,0 +1,6 @@
+[submodule "ros_vision_track/camera_processing/yolov5"]
+	path = ros_vision_track/camera_processing/yolov5
+	url = https://github.com/adrian-soch/yolov5.git
+[submodule "ros_vision_track/camera_processing/yolov7"]
+	path = ros_vision_track/camera_processing/yolov7
+	url = https://github.com/adrian-soch/yolov7.git
