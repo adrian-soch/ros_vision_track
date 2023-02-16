@@ -1,7 +1,6 @@
 #! /usr/bin/env python3
 
 """
-
 @file slim_track.py
 
 @brief This is a slimmed down version of the original `track.py`.
@@ -9,6 +8,7 @@
 
 @section Author(s)
 - Created by Adrian Sochaniwsky on 13/11/2022
+- Modified version of https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet
 
 """
 
